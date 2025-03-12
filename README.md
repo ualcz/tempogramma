@@ -91,7 +91,7 @@ src/
 
 ```bash
 # Clone o repositório
-git clone <URL_DO_REPOSITÓRIO>
+git clone https://github.com/ualcz/tempogramma.git
 
 # Entre no diretório
 cd tempograma
